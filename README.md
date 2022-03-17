@@ -2,7 +2,7 @@
 KutumbAssignment is a simple app which shows the current trending Github repositories fetched from a public API.
 This Application was developed for Kutumb Campus Hiring 2022 at Kalinga Institute of Industrial Technology, Bhubaneshwar.
 
-[Download KutumbAssignment APK here](https://raw.githubusercontent.com/divya-shiv-pandey/Scriptor/main/Scriptor.exe)
+[Download KutumbAssignment APK here](https://drive.google.com/open?id=138Ch3hG_l8DXX_TtP8DM1VDH5kcO-F1u&authuser=divyashiv.pandey2%40gmail.com&usp=drive_fs)
 
 The complete API docs are available [here](https://github.com/NiklasTiede/Github-Trending-API).
 
